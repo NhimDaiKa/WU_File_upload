@@ -1,4 +1,4 @@
-# # Lab: Remote code execution via web shell upload
+# Lab: Remote code execution via web shell upload
 
 > Phòng lab này chứa lỗ hổng file upload trong phần upload avatar. 
 > 
